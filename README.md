@@ -1,4 +1,4 @@
-# Academic Outcome Predictor
+# Academic Outcome Calculator
 
 The Academic Outcome Predictor is a simple Python University Project designed to calculate progression outcomes of students.
 It determines the academic standing based on the total credits earned in different categories.
